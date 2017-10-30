@@ -7,7 +7,7 @@ This repository contains the codes for lung and airway segmentation from CT scan
 * ```demo_ct_lung_segment.ipynb```: demo code to walk through the steps implementated in ```main.py```.
 * ```main.py```: main code of the segmentation.
 * ```segment_lung.py```: coarse segmentation of lung & airway. 
-* ```segment_airway.py```: segmentation of airway. 
+* ```segment_airway.py```: extraction of airway. 
 * ```utils.py```: predefined functions.
 * ```data```: input sample.
 * ```results```: output sample.
