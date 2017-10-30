@@ -1,9 +1,9 @@
 # CT Lung Segmentation
 
-Codes for lung and airway segmentation from CT scans, used in "Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules", [MICCAI'17](https://arxiv.org/abs/1707.01086).
+This repository contains the codes for lung and airway segmentation from CT scans, used in "Discriminative Localization in CNNs for Weakly-Supervised Segmentation of Pulmonary Nodules", [MICCAI'17](https://arxiv.org/abs/1707.01086).
 
-**Demo code**: <br />
-``ct_lung_segment.ipynb`` <br />
+**Demo code**
+```ct_lung_segment.ipynb```
 **Demo input**: <br />
 ``sample_ct.nii.gz`` <br />
 **Demo outputs**: <br />
