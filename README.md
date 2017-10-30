@@ -24,7 +24,7 @@ This repository contains the codes for lung and airway segmentation from CT scan
 ## Usage
 
 ```
-    git clone https://github.com/wanwanbeen/ct_lung_segmentation
-    cd ct_lung_segmentation
-    python main.py
+    $ git clone https://github.com/wanwanbeen/ct_lung_segmentation
+    $ cd ct_lung_segmentation
+    $ python main.py
 ```
