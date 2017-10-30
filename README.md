@@ -14,7 +14,14 @@ This repository contains the codes for lung and airway segmentation from CT scan
 
 ***Note***: the sample image is down-sampled from a CT scans in the [LIDC-IDRI](http://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) dataset.
 
-## Download and Run
+## Requirements
+
+* numpy
+* nibabel
+* scipy
+* scikit-image
+
+## Usage
 
 ```
     git clone https://github.com/wanwanbeen/ct_lung_segmentation
