@@ -12,7 +12,7 @@ This repository contains the codes for lung and airway segmentation from CT scan
 * ```data```: input sample.
 * ```result```: output sample.
 
-***Note***: the sample image is downsampled from a CT scans in the [LIDC-IDRI](http://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) dataset.
+***Note***: the sample image is down-sampled from a CT scans in the [LIDC-IDRI](http://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) dataset.
 
 ## Download and Run
 
