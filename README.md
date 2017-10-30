@@ -8,9 +8,9 @@ This repository contains the codes for lung and airway segmentation from CT scan
 * ```main.py```: main code of the segmentation.
 * ```segment_lung.py```: coarse segmentation of lung & airway. 
 * ```segment_airway.py```: extraction of airway. 
-* ```utils.py```: predefined functions.
+* ```utils.py```: utility functions.
 * ```data```: input sample.
-* ```results```: output sample.
+* ```result```: output sample.
 
 ***Note***: the sample image is downsampled from a CT scans in the [LIDC-IDRI](http://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX) dataset.
 
