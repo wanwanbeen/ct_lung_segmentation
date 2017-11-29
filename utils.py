@@ -31,6 +31,7 @@ def define_parameter():
     #----------------------------------------------------
     # Parameters for airway segmentation
     # NEED TO ADAPT for image resolution and orientation
+    # [current values work for demo image with resolution = 1mm^3]
     #----------------------------------------------------
     params['airwayRadiusMask']  = 15  # increase the value if you have high resolution image
     params['airwayRadiusX']     = 8   # ditto
